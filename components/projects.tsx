@@ -37,7 +37,7 @@ export default function Projects() {
       image: "/portfolio.png?height=400&width=600",
       technologies: ["React", "Next.js", "Tailwind CSS"],
       demoUrl: "#",
-      codeUrl: "",
+      codeUrl: "https://github.com/MrGarbouz/portfolioWebsite",
     },
   ]
 

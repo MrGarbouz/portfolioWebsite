@@ -25,7 +25,7 @@ export default function Hero() {
             <p className="text-xl text-muted-foreground">{t("hero.subtitle")}</p>
             <div className="flex flex-wrap gap-4">
               <Button asChild size="lg">
-                <Link href="https://github.com/MrGarbouz/portfolio3">{t("hero.cta.projects")}</Link>
+                <Link href="https://github.com/MrGarbouz">{t("hero.cta.projects")}</Link>
               </Button>
               <Button asChild variant="outline" size="lg">
                 <Link href="mailto:aminegarbouz01@gmail.com">{t("hero.cta.contact")}</Link>
